@@ -119,7 +119,7 @@ streamlit run app.py
 ## 🎥 Live Demo
 
 * **Live Application:** *(https://credit-card-fraud-detection-anas.streamlit.app/)*
-* **Demo Video:** *(Add your LinkedIn post or YouTube link here)*
+* **Demo Video:** *(https://www.linkedin.com/in/anas-samy-907072320/)*
 
 ---
 
