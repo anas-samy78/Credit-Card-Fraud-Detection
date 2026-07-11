@@ -265,7 +265,7 @@ with open(pdf_path, "rb") as pdf:
         mime="application/pdf"
     )
 
-import base64
+"""import base64
 
 with open(pdf_path, "rb") as f:
     pdf = base64.b64encode(f.read()).decode("utf-8")
@@ -279,4 +279,4 @@ pdf_display = f"""
 </iframe>
 """
 
-st.markdown(pdf_display, unsafe_allow_html=True)
+st.markdown(pdf_display, unsafe_allow_html=True)"""
